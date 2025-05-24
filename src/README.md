@@ -1,6 +1,6 @@
 # PostgreSQL to CSV Exporter
 
-このPythonスクリプトは、PostgreSQLデータベースからデータを取得し、CSVファイルにエクスポートするためのツールです。
+このPythonスクリプトは、PostgreSQLデータベースからデータを取得し、CSVファイルにエクスポートするためのツールです。。
 
 ## 機能
 
